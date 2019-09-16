@@ -1,2 +1,2 @@
 # rebase-test
-got help me
+god help me
