@@ -1,10 +1,3 @@
 # rebase-test
-god help megit 
+god help me
 
-This change will be rebased.
-
-Rebased!
-
-
-
-Reboosed.
