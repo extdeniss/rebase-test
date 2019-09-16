@@ -2,3 +2,5 @@
 god help megit 
 
 This change will be rebased.
+
+Rebased!
