@@ -1,2 +1,4 @@
 # rebase-test
-god help me
+god help megit 
+
+This change will be rebased.
