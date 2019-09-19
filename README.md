@@ -1,5 +1,5 @@
 # rebase-test
-god help me
+god help me with this task!
 
 This change will be rebased.
 
